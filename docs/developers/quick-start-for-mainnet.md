@@ -1,6 +1,6 @@
 # Quick Start for Mainnet
 ## Metamask
-- [What's the Metamask](https://metamask.io/index.html)
+- [What's the Metamask](https://metamask.io/index.md)
 - [Guide for Metamask](https://docs.metamask.io/guide/)
 
 ### 1. Config Metamask for EVO Mainnet

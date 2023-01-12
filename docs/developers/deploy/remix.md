@@ -16,9 +16,9 @@ This dapp implements a "Hello World" style application that echoes a message pas
 - Modify “name”, “symbol”, “decimals” and “totalSupply” according to your requirements.
 ![avatar](../../img/remix-02.png)
 
-The first line, `pragma solidity ^0.5.16` specifies that the source code is for a Solidity version greater than 0.5.16. [Pragmas](https://solidity.readthedocs.io/en/latest/layout-of-source-files.html#pragma) are common instructions for compilers about how to treat the source code (e.g., pragma once).
+The first line, `pragma solidity ^0.5.16` specifies that the source code is for a Solidity version greater than 0.5.16. [Pragmas](https://solidity.readthedocs.io/en/latest/layout-of-source-files.md#pragma) are common instructions for compilers about how to treat the source code (e.g., pragma once).
 
-A contract in the sense of Solidity is a collection of code (its functions) and data (its state) that resides at a specific address on the Ethereum blockchain. Learn more about the [constructor](https://solidity.readthedocs.io/en/latest/contracts.html#constructor) and [memory](https://solidity.readthedocs.io/en/latest/introduction-to-smart-contracts.html#storage-memory-and-the-stack) in the docs.
+A contract in the sense of Solidity is a collection of code (its functions) and data (its state) that resides at a specific address on the Ethereum blockchain. Learn more about the [constructor](https://solidity.readthedocs.io/en/latest/contracts.md#constructor) and [memory](https://solidity.readthedocs.io/en/latest/introduction-to-smart-contracts.md#storage-memory-and-the-stack) in the docs.
 
 ### Compile Smart Contract
 - Step1: Click button to switch to compile page
@@ -34,9 +34,9 @@ Now, We have to deploy our smart contract on EVO Network. For that, we have to c
 
 - Add a new network
 ![avatar](../../img/remix-05.png)
-- Testnet * [RPC URLs](../blockchainDetail/aminorpc.html) * ChainID: evochain-65 * Symbol: EVO * Block Explorer:
+- Testnet * [RPC URLs](../blockchainDetail/aminorpc.md) * ChainID: evochain-65 * Symbol: EVO * Block Explorer:
 https://www.evoblock.com/evo-test
-- Mainnet * [RPC URLs](../blockchainDetail/aminorpc.html) * ChainID: evochain-66 * Symbol: EVO * Block Explorer: 
+- Mainnet * [RPC URLs](../blockchainDetail/aminorpc.md) * ChainID: evochain-66 * Symbol: EVO * Block Explorer: 
 https://www.evoblock.com/
 - Go ahead and click save
 - Copy your address from Metamask

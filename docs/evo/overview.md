@@ -38,7 +38,7 @@ It is required to stake at least 10,000 EVO in order to apply to become a valida
 EVO holders obtain voting rights by staking their tokens. One address can vote for up to 30 different validator candidates, and the number of votes for each validator candidate that the address has supported is equivalent to the amount of EVO the address has staked (1 EVO = 1 vote).
 
 
-Learn more about [being a delegator](../delegators/delegators-faq.html).
+Learn more about [being a delegator](../delegators/delegators-faq.md).
 
 
 
@@ -51,13 +51,13 @@ The EVO block explorer allows you to search, view and analyze EVO data—like bl
 
 ## EVO CLI
 
-`evochaincli` is a command-line interface that lets you interact with the EVO. `evochaincli` is the only tool that supports 100% of the EVO features, including accounts, transfers, delegation, and governance. Learn more about evochaincli with the [delegator's CLI guide](../delegators/delegators-guide-cli.html).
+`evochaincli` is a command-line interface that lets you interact with the EVO. `evochaincli` is the only tool that supports 100% of the EVO features, including accounts, transfers, delegation, and governance. Learn more about evochaincli with the [delegator's CLI guide](../delegators/delegators-guide-cli.md).
 
 ## Running a full-node on the EVO Testnet
 
-In order to run a full-node on the EVO testnet, you must first [install `evochaind`](../getting-start/install-evo.html). Then, follow [the guide](../getting-start/install-evo.html).
+In order to run a full-node on the EVO testnet, you must first [install `evochaind`](../getting-start/install-evo.md). Then, follow [the guide](../getting-start/install-evo.md).
 
-If you would like to run a validator node, follow the [validator setup guide](../validators/validators-guide-cli.html).
+If you would like to run a validator node, follow the [validator setup guide](../validators/validators-guide-cli.md).
 
 ## Join the Community
 

@@ -5,7 +5,7 @@ This document describes the in-built accounts system of EVO.
 
 ## Pre-requisite Readings
 
-- [Cosmos SDK Accounts](https://docs.cosmos.network/v0.46/basics/accounts.html) 
+- [Cosmos SDK Accounts](https://docs.cosmos.network/v0.46/basics/accounts.md) 
 - [Ethereum Accounts](https://ethereum.org/en/whitepaper/#ethereum-accounts) 
 
 ## EVO Accounts

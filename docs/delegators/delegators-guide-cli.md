@@ -48,7 +48,7 @@ Please exercise extreme caution!
 [**Download the binaries**]
 Not available yet.
 
-[**Install from source**](../getting-start/install-evo.html)
+[**Install from source**](../getting-start/install-evo.md)
 
 `evochaincli` is used from a terminal. To open the terminal, follow these steps:
 - **Windows**: `Start` > `All Programs` > `Accessories` > `Command Prompt`
@@ -151,7 +151,7 @@ In order to query the state and send transactions, you need a way to access the 
 
 This is the most secure option, but comes with relatively high resource requirements. In order to run your own full-node, you need good bandwidth and at least 1TB of disk space.
 
-You will find the tutorial on how to install `evochaind` [here](../getting-start/install-evo.html) and the guide to run a full-node [here](../getting-start/join-evo-testnet.html).
+You will find the tutorial on how to install `evochaind` [here](../getting-start/install-evo.md) and the guide to run a full-node [here](../getting-start/join-evo-testnet.md).
 
 ### Connecting to a Remote Full-Node
 
@@ -287,7 +287,7 @@ evochaincli tx send <from_key_or_address> <to_address> <amount> --from <yourKeyN
 
 **Before you can staking evo and earn rewards, you need to [set up `evochaincli`](#setting-up-evochaincli) and [create an account](#creating-an-account).**
 
-Use command-line interface (CLI) commands to staking evos and earn rewards as a validator or delegator, you can get it [here](./delegators-guide-cli.html).
+Use command-line interface (CLI) commands to staking evos and earn rewards as a validator or delegator, you can get it [here](./delegators-guide-cli.md).
 
 ### Participating in Governance
 

@@ -11,7 +11,7 @@ Wasm smart contracts are smart contracts that operated on wasm virtual machine. 
 ### Install essential tools
    In this section, we will discuss how to set up our machine and install the prerequisites for developing, deploying and interacting with smart contracts on EVO chain.
 #### Install EVO
-   Make sure you have the EVO application installed, [installation instructions](../getting-start/install-evo.html).
+   Make sure you have the EVO application installed, [installation instructions](../getting-start/install-evo.md).
 #### Install Rust
    Install Rust environment (Linux or MacOS), [installation instructions](https://rustup.rs/).
    After installing Rust, you need to confirm your machine has wasm32 target
@@ -34,7 +34,7 @@ apt install jq curl
 ### Configure network
 You can choose to test on mainnet, testnet or local testnet.
 #### Mainnet
-Mainnet does not need to set up nodes; you can directly access RPC node services provided by EVO for developing EVO wasm contracts. If you need to build your own test network node, please refer to [mainnnet node set up](../getting-start/join-evo-mainnet.html).
+Mainnet does not need to set up nodes; you can directly access RPC node services provided by EVO for developing EVO wasm contracts. If you need to build your own test network node, please refer to [mainnnet node set up](../getting-start/join-evo-mainnet.md).
 
 Configure your evochaincli
 ```Bash
@@ -45,7 +45,7 @@ evochaincli config trust-node true
 evochaincli config node https://evochaintmrpc.evoblock.com
 ```
 #### Testnet
-Testnet does not need to set up nodes; you can directly access RPC node services provided by EVO for developing EVO wasm contracts. If you need to build your own test network node, please refer to [testnet node set up](../getting-start/join-evo-testnet.html).
+Testnet does not need to set up nodes; you can directly access RPC node services provided by EVO for developing EVO wasm contracts. If you need to build your own test network node, please refer to [testnet node set up](../getting-start/join-evo-testnet.md).
 
 Configure your evochaincli
 ```Bash 

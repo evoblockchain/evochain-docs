@@ -24,7 +24,7 @@ This guide helps you create a single validator node that runs a network locally 
 
 ### Requirements
 
-- [Install evo](./install-evo.html)
+- [Install evo](./install-evo.md)
 - [Install `jq`](https://stedolan.github.io/jq/download/) (optional)
 
 ### Create Genesis File and Start the Network
@@ -62,7 +62,7 @@ From the [networks/local directory](https://github.com/evoblockchain/evochain/tr
 
 ### Requirements
 
-- [Install evo](./install-evo.html)
+- [Install evo](./install-evo.md)
 - [Install docker](https://docs.docker.com/engine/installation/)
 - [Install docker-compose](https://docs.docker.com/compose/install/)
 

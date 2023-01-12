@@ -13,13 +13,13 @@ Meaning of [pruning parameter](https://forum.evo.club/d/58-pruning)
 
 
 ## testnet
-Download URL: [https://static.evoblock.com/cdn/oec/snapshot/index.html](https://static.evoblock.com/cdn/oec/snapshot/index.html)
+Download URL: [https://static.evoblock.com/cdn/oec/snapshot/index.md](https://static.evoblock.com/cdn/oec/snapshot/index.md)
 
 For the differences between snapshots, please refer to：[this](https://forum.evo.club/d/169-oec)
 
 
 ## mainnet
-Download URL: [https://static.evoblock.com/cdn/oec/snapshot/index.html](https://static.evoblock.com/cdn/oec/snapshot/index.html)
+Download URL: [https://static.evoblock.com/cdn/oec/snapshot/index.md](https://static.evoblock.com/cdn/oec/snapshot/index.md)
 
 For the differences between snapshots, please refer to：[this](https://forum.evo.club/d/169-oec)
 

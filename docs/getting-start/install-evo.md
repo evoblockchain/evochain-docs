@@ -2,8 +2,8 @@
 
 This guide will explain how to install the `evochaind` and `evochaincli` entrypoints
 onto your system. With these installed on a server, you can participate in the
-testnet as either a [Full Node](./join-evo-mainnet.html) or a
-[Validator](../validators/validators-guide-cli.html).
+testnet as either a [Full Node](./join-evo-mainnet.md) or a
+[Validator](../validators/validators-guide-cli.md).
 
 ## Install Go
 
@@ -106,4 +106,4 @@ To test any changes made in the Cosmos-SDK or Tendermint, a `replace` clause nee
 
 ## Next
 
-Now you can [join the mainnet](./join-evo-mainnet.html), [the public testnet](./join-evo-testnet.html) or [create you own testnet](./deploy-you-own-evo-testnet.html)
+Now you can [join the mainnet](./join-evo-mainnet.md), [the public testnet](./join-evo-testnet.md) or [create you own testnet](./deploy-you-own-evo-testnet.md)

@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 This guide explains how users can receive gas fee rewards through executing an EVM transaction, whereby users can stake EVO and obtain voting rights to vote for their corresponding validator nodes.
-For a detailed explanation of EVO's staking algorithm, please refer to [here](../validators/detail/distr.html).
+For a detailed explanation of EVO's staking algorithm, please refer to [here](../validators/detail/distr.md).
 
 ## 2. How to use
 

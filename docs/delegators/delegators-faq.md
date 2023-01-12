@@ -19,7 +19,7 @@ You will have the ability to choose if you want to become a delegator on the EVO
 
 ## Incentives
 
-For more information on incentives, see [Staking Rewards Algorithm](../validators/detail/distr.html).
+For more information on incentives, see [Staking Rewards Algorithm](../validators/detail/distr.md).
 
 
 ## Choosing a validator

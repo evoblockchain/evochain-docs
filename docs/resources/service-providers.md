@@ -18,9 +18,9 @@ There are three main pieces to consider:
 
 We will describe the steps to run and interact with a full-node within the EVO network. For other SDK-based blockchain, the process should be similar.
 
-First, you need to [install the software](../getting-start/install-evo.html).
+First, you need to [install the software](../getting-start/install-evo.md).
 
-Then, you can start [running a full-node(testnet)](../getting-start/join-evo-testnet.html).
+Then, you can start [running a full-node(testnet)](../getting-start/join-evo-testnet.md).
 
 ### Command-Line interface
 

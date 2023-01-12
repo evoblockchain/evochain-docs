@@ -4,7 +4,7 @@ See the [testnet repo](https://github.com/evoblockchain/testnets) for
 information on the latest testnet, including the correct version
 of EVO to use and details about the genesis file.
 
-**You need to [install evo](./install-evo.html) before you go further**
+**You need to [install evo](./install-evo.md) before you go further**
 
 
 Details of deployment information: https://github.com/evoblockchain/testnets/blob/master/README.md
@@ -84,7 +84,7 @@ You can add `seeds` in the `~/.evochaind/config/config.toml` file:
 seeds = "b7c6bdfe0c3a6c1c68d6d6849f1b60f566e189dd@3.13.150.20:36656,d7eec05e6449945c8e0fd080d58977d671eae588@35.176.111.229:36656,223b5b41d1dba9057401def49b456630e1ab2599@18.162.106.25:36656"
 ```
 
-For more information on seeds and peers, you can [read this](https://docs.tendermint.com/master/spec/p2p/peer.html).
+For more information on seeds and peers, you can [read this](https://docs.tendermint.com/master/spec/p2p/peer.md).
 
 ## Starting a New Node
 
@@ -103,7 +103,7 @@ evochaincli status
 See the [testnet repo](https://github.com/evoblockchain/testnets) for information on testnets, including the correct version of the EVO to use and details about the genesis file.
 
 ## JSON-RPC Endpoint
-[RPC URL](../developers/blockchainDetail/aminorpc.html#testnet-chain-id-evochain-65)
+[RPC URL](../developers/blockchainDetail/aminorpc.md#testnet-chain-id-evochain-65)
 
 ## Upgrading Your Node
 
