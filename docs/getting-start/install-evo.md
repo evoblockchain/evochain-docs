@@ -76,8 +76,8 @@ $ evochaincli version --long
 name: evochain
 server_name: evochaind
 client_name: evochaincli
-version: v1.6.5
-commit: 4f496351ab3bdc4ce014706711f31589021dd0de
+version: v1.0.0
+commit: 40467b73582ec383baed988d3e09be86d2bda164
 build_tags: netgo
 go: go version go1.19.2 darwin/amd64
 ```
