@@ -40,11 +40,8 @@ If you would like to run a validator node, follow the [validator setup guide](./
 
 Have questions, comments, or ideas? Feel free to participate and to become part of the EVO community through one of the following channels.
 
-* [EVO Validator Chat](https://t.me/joinchat/HuUCNktBLftzEY1fZPStkw)
-* [EVO Developer Chat](https://t.me/evohaintech)
-
 ## Version
 
-The version of the program relating to this documentation is: 0.10
+The version of the program relating to this documentation is: 1.0
 
 
