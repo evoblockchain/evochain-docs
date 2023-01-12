@@ -14,7 +14,7 @@ EVOChain is a set of open-source blockchain projects developed by EVOblock, aimi
 
 Do you have EVO tokens? With EVO, you have the unique ability to contribute to the security and governance of the EVO. Delegate your EVO to one or more of the 100 validators on the EVO blockchain to earn more EVO through Proof-of-Stake. You can also vote with your EVO to influence the future of the EVO through on-chain governance proposals.
 
-Learn more about [being a delegator](./delegators/delegators-faq.html).
+Learn more about [being a delegator](./delegators/delegators-faq.md).
 
 
 
